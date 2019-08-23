@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
-import sys
+import utils
 
-assert sys.version_info >= (3,7), "This script requires at least Python 3.7"
+utils.check_version((3,7))
+utils.clear()
 
 print('Hello, Class!')
