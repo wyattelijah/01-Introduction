@@ -30,7 +30,7 @@ If you want more detailed instructions, here are the steps to follow:
 5. Go to your GitHub home page, and select the new 01-Introduction repository
 6. On that page, you will see a green button labeled "Clone or download". Press that now. You will see a drop down box that contains the following: "Clone with HTTPS". Inside the dropdown, you will see a box containing an URL. Next to the box is an icon that looks like a clipboard with an arrow pointing to it. Click that icon now
 7. Open VS Code. When the program opens, push the F1 key. In the box that opens, type "Git: Clone". Hit enter. In the box that then opens, paste the URL you copied from GitHub. Select a location for the repository; on Windows, the default is something like c:\Users\(username)\Documents\01-Introduction. VS Code will now clone (download) a copy of the code to your computer
-8. VS Code should give you an opportunity to enter your username and password. If you see a dialogue asking if you want VS Code to check for changes periodically, you can select Yes 
+8. VS Code should give you an opportunity to enter your username and password. If you see a dialogue asking if you want VS Code to check for changes periodically, you can select "No" 
 9. Once VS Code has cloned (downloaded) the code, it will be responsible for keeping the code on your local computer synchronized with the repository in your GitHub account. In the panel to the left of the current window, you should see a list of the files you have downloaded
 
 ---
@@ -44,9 +44,9 @@ If you want more detailed instructions, here are the steps to follow:
 ---
 
 15. When you are done editing the files, you should see an icon on the far-left bar that looks like three circles, connected by lines. That icon should be badged with a "3". Push that button now
-16. At the top of the leftmost area, you should see a text box labeled "Message". Add a message that describes what you have done; these messages are typically stated in the active-present tense. For example, "Updates the LICENSE, README.md, and completes the assignment." Press ALT-Enter (or click the check mark above) to commit your changes.
-17. In the drop down to the right of the check mark, select Push.
-18. Check out your page on GitHub. You should see the changes you made reflected there, Repeat steps 9 through 16 as necessary
+16. At the top of the leftmost area, you should see a text box labeled "Message". Add a message that describes what you have done; these messages are typically stated in the active-present tense. For example, "Updates the LICENSE, README.md, and completes the assignment." Click the check mark above the text box to commit your changes
+17. In the drop down to the right of the check mark, select "Push"
+18. Check out your page on GitHub. You should see the changes you made reflected there, Repeat steps 10 through 17 as necessary
 19. When you are satisfied with your efforts, turn in a URL to your repository on Canvas
 
 ---
