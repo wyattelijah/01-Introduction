@@ -38,7 +38,7 @@ If you want more detailed instructions, here are the steps to follow:
 10. First, edit the file called LICENSE. Replace the [year] [fullname] with the current year and your name (e.g., 2019 Jason Francis). Save this file
 11. Then edit the file called main.py. This is the python code for this assignment. Replace the line "print('Hello, Class!')" with a line that answers the first question for the assignment (e.g., "print('Hello, my name is Jason Francis')")
 12. Add additional lines to answer the other questions from the list above. Be creative and descriptive, but remember that this information will be publically available. When you are done, save the file
-13. You should test your code by clicking on the green arrow in the top right corner of the window. The results will appear at the bottom. Make sure everything looks the way you would expect
+13. You should test your code by right-clicking on the code and selecting "Run Python File in Terminal". The results will appear at the bottom. Make sure everything looks the way you would expect
 14. Open the README.md file (which, at this point contains all this information). The purpose of this file is to describe what you code does, so edit it to describe what you are trying to accomplish with your code. Write in your own voice, and try to be helpful to anyone who downloads this project. What are you hoping to accomplish? What should someone expect to see when they run your code? When you are done editing README.md, save the file
 
 ---
